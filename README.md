@@ -1,24 +1,22 @@
-# Hi there ◔◡◔
+# Hi, I'm Nick ◔◡◔
 
-**Product Designer · Builder · Digital Pillager**
+Senior Product Designer 
 
 I design creative interfaces, scalable systems, and products built to last.
-10+ years designing complex digital products.
-Currently exploring the intersection of **design, code, AI and autonomous systems**.
 
----
+10+ years designing complex digital products.  
+Currently exploring **design × code × AI × autonomous systems**.
+
+[nickcollins.co](https://www.nickcollins.co)
+
+✦ Design Systems ✦ UI/UX ✦ Art Direction ✦ B2B/B2C Multi-Brand Consumer Products ✦
+
+
+<!--
 
 [▲] ACTIVE - Building and experimenting at **[Spectral](https://www.spctrl.tech)**.
 
 Designing products, systems and tools across AI, automation and agents.
-
----
-
-
-[nickcollins.co](https://www.nickcollins.co)
-
-
-<!--
 
 # Nick Collins
 
