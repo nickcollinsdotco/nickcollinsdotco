@@ -1,30 +1,33 @@
-## Hi there ◔◡◔
+# Hi there ◔◡◔
+
+**Product Designer · Builder · Digital Pillager**
+
+I design creative interfaces, scalable systems, and products built to last.
+10+ years designing complex digital products.
+Currently exploring the intersection of **design, code, AI and autonomous systems**.
+
+---
+
+[▲] ACTIVE - Building and experimenting at **[Spectral](https://www.spctrl.tech)**.
+
+Designing products, systems and tools across AI, automation and agents.
+
+---
+
+
+[nickcollins.co](https://www.nickcollins.co)
+
 
 <!--
-**nickcollinsdotco/nickcollinsdotco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
 # Nick Collins
--->
 
 I design creative interfaces, scalable systems, and products built to last.
 
 10+ years designing complex digital products across startups, agencies and in-house teams.  
 Now working at the intersection of **product design, code, AI and autonomous systems**.
 
-<!--[Website](https://www.nickcollins.co) · [LinkedIn](https://www.linkedin.com/in/nickcollins) -->
+[Website](https://www.nickcollins.co) · [LinkedIn](https://www.linkedin.com/in/nickcollins)
 
 ---
 
@@ -44,7 +47,6 @@ A product studio and R&D engine building software, AI systems, automation and ag
 | OG Studio | Creative and product experimentation |
 | Trace | Local-first meeting capture, transcription and AI notes |
 
-<!--
 ---
 
 ## Selected work
@@ -61,7 +63,6 @@ Led product design for a multi-platform trading experience across web and mobile
 
 Worked across onboarding, wallets, dashboards, discovery and the underlying design system.
 
--->
 ---
 
 ## Building in public
@@ -87,7 +88,6 @@ TypeScript · React · Rust · GitHub · AI tooling
 
 I like working close to engineering and increasingly build the things I design.
 
-<!--
 ---
 
 ## Elsewhere
@@ -95,7 +95,8 @@ I like working close to engineering and increasingly build the things I design.
 [![Website](https://img.shields.io/badge/nickcollins.co-111111?style=flat-square&logo=safari&logoColor=white)](https://www.nickcollins.co)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickcollins)
 
--->
 ---
 
 *nickcollinsdotco*
+
+-->
