@@ -1,19 +1,18 @@
-# Hi, I'm Nick ◔◡◔
+### Hi, I'm Nick ◔◡◔
 
-Senior Product Designer 
+#### Senior Product Designer
 
-I design creative interfaces, scalable systems, and products built to last.
+>I design creative interfaces for complex digital products, scalable systems, and products built to last.
 
-10+ years designing complex digital products.  
-Currently exploring **design × code × AI × autonomous systems**.
+Currently exploring **AI × Autonomous Systems** 
 
-[nickcollins.co](https://www.nickcollins.co)
+[Website](https://www.nickcollins.co)
 
-✦ Design Systems ✦ UI/UX ✦ Art Direction ✦ B2B/B2C Multi-Brand Consumer Products ✦
+
 
 
 <!--
-
+✦ Design Systems ✦ UI/UX ✦ Art Direction ✦ B2B/B2C Multi-Brand Consumer Products ✦
 [▲] ACTIVE - Building and experimenting at **[Spectral](https://www.spctrl.tech)**.
 
 Designing products, systems and tools across AI, automation and agents.
